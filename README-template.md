@@ -51,6 +51,12 @@ I know I'm going to need flexbox and possible a conditional img src change for t
 I also am going to have to be creative with the padding/margin of the img for mobile as it's 100%vw but the rest of the elements on the page have what looks to be a margin of 1em.
 - Link to css tricks: [Add live site URL here](https://css-tricks.com/full-width-containers-limited-width-parents/)
 
+Setting up the main section, I notice a pattern right away with the course cards. When I had figured out the structure for one, I figured it out for all of them. 
+I know that I could do this with a single component in react but this isnt a react project. yet. lol. 
+These flow in a single column on mobile, two columns on tablet, and max out at three columns on desktop. gonna need to implement a flex-wrap situation
+
+The footer is almost identical to the nav in the header. 
+
 ### Built with
 
 - Semantic HTML5 markup
