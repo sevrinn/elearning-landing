@@ -1,6 +1,6 @@
 # Frontend Mentor - Skilled e-learning landing page solution
 
-This is a solution to the [Skilled e-learning landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
+This is my solution to the [Skilled e-learning landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/skilled-elearning-landing-page-S1ObDrZ8q). Frontend Mentor challenges help me improve my coding skills by building realistic projects.
 
 ## Table of contents
 
@@ -45,6 +45,11 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
+HTML Skeleton
+I'm building out the skeleton, starting with mobile and looking at how the design expands at larger screen sizes. 
+I know I'm going to need flexbox and possible a conditional img src change for the img in the header. 
+I also am going to have to be creative with the padding/margin of the img for mobile as it's 100%vw but the rest of the elements on the page have what looks to be a margin of 1em.
+- Link to css tricks: [Add live site URL here](https://css-tricks.com/full-width-containers-limited-width-parents/)
 
 ### Built with
 
